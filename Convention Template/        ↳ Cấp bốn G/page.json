@@ -1,0 +1,141 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC0269DB-D155-4B13-87A7-B45E39E42FA9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -671,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "3F4E0B0A-A0E5-445D-9BC0-93E2A6020B89"
+    },
+    {
+      "class": "artboard",
+      "id": "49742D85-63DA-4AC4-A54D-2FD3BB676FD3"
+    },
+    {
+      "class": "artboard",
+      "id": "62DA82F4-5172-4ADE-8FE8-4EBDE749DAD1"
+    },
+    {
+      "class": "artboard",
+      "id": "3170B74A-47AB-407C-854B-4BEACBBF8693"
+    },
+    {
+      "class": "artboard",
+      "id": "4A70283F-22C0-4EE0-9B80-1C5495D59030"
+    },
+    {
+      "class": "artboard",
+      "id": "6BE17552-BB03-4074-AE61-62B2BB7838E3"
+    },
+    {
+      "class": "artboard",
+      "id": "BA559CF1-8F7E-443D-9D7F-1AAA66F15DAB"
+    },
+    {
+      "class": "group",
+      "id": "A4928B2C-6428-4379-8CAC-39455B45CEEE"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "        ↳ Cấp bốn G",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "D6A0F0E4-3EE4-4ED5-A5AB-CE20F0364E17",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "3F4E0B0A-A0E5-445D-9BC0-93E2A6020B89",
+      "lastUsedFlowDescription": "",
+      "lastUsedFlowTitle": "[Flow] Cấp một A/ Cấp hai B/ Cấp ba E/ Cấp bốn G"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -439,
+    "guides": [
+    ]
+  }
+}

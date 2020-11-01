@@ -1,0 +1,70 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "E95FF380-33AA-439A-9570-EBDC2A6F0EC6",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "03A3340A-0D96-444A-80D2-242DE0427291",
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "60.1",
+    "build": 88133,
+    "version": 121
+  },
+  "pages": [
+    "1. Cấp một A",
+    "↳ Cấp hai B",
+    "    ↳ Cấp ba C (3)",
+    "        ↳ Cấp bốn D",
+    "    ↳ Cấp ba E",
+    "        ↳ Cấp bốn F",
+    "        ↳ Cấp bốn G",
+    "↳ Cấp hai H",
+    "    ↳ Cấp ba I",
+    "        ↳ Cấp bốn K",
+    "----------------------",
+    "2. Cấp một AA",
+    "↳ Cấp hai BB",
+    "    ↳ Cấp ba CC",
+    "        ↳ Cấp bốn DD",
+    "↳ Cấp hai EE",
+    "    ↳ Cấp ba FF",
+    "----------------------"
+  ],
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "lastUsedFlowPage": "    ↳ Cấp ba FF"
+    },
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}

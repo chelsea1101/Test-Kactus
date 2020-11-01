@@ -1,0 +1,188 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.1098039215686274,
+    "green": 0.1137254901960784,
+    "red": 0.1176470588235294
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0B2820E6-86DB-4B23-9C96-34D8C307D7DC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 891.8,
+    "width": 3005,
+    "x": 482,
+    "y": 1180
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9D4E9210-D72C-4F60-98A1-145200A6BBE0"
+    },
+    {
+      "class": "bitmap",
+      "id": "D4520C9C-98B8-4BAF-B223-98D2265B6860"
+    },
+    {
+      "class": "text",
+      "id": "04B7DDB7-FCE0-4FA1-98C7-65A43B5A3086"
+    },
+    {
+      "class": "bitmap",
+      "id": "806235BE-48CE-47CE-BB24-DB2F959A0396"
+    },
+    {
+      "class": "text",
+      "id": "4FC424DB-4AB0-4396-9E4D-2E0DCA538A8F"
+    },
+    {
+      "class": "bitmap",
+      "id": "CEF4C3A5-D6C3-4E5B-8FF7-51F9731E9FE4"
+    },
+    {
+      "class": "text",
+      "id": "634967B0-9978-4B48-94D2-A1B8F79E6360"
+    },
+    {
+      "class": "bitmap",
+      "id": "E4DC3D5D-BF39-42EB-B573-B3EC1BDDFF47"
+    },
+    {
+      "class": "text",
+      "id": "023646CF-EEA5-4868-8C87-D9ADB846890D"
+    },
+    {
+      "class": "bitmap",
+      "id": "4EC7C3A1-E11F-4CCC-BA85-D96F346A5D35"
+    },
+    {
+      "class": "text",
+      "id": "10A37CB0-6DAB-4178-B9C2-CE32725CF3B4"
+    },
+    {
+      "class": "bitmap",
+      "id": "2F4C3E31-1023-49CE-BA97-1AA50F970CF8"
+    },
+    {
+      "class": "text",
+      "id": "6DB97942-803D-4F85-B8FE-5A1DCCCF4ACD"
+    },
+    {
+      "class": "group",
+      "id": "1EF49D93-360D-4885-A9F0-34AC875A46A4"
+    }
+  ],
+  "maintainScrollPosition": false,
+  "name": "[Flow] Cấp một A/ Cấp hai B/ Cấp ba E/ Cấp bốn F",
+  "nameIsFixed": false,
+  "presetDictionary": {
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "4D25764B-71AA-47E4-9047-0070806417CD",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.abynim.sketchplugins.userflows": {
+      "homeScreenID": "8327820E-5CA0-41B1-A720-690B5E0DC61E",
+      "includePrototypingConnections": 1,
+      "pageID": "1AFFCD7B-6856-44C9-B92D-3721BD6232E5",
+      "titleLayerID": "9D4E9210-D72C-4F60-98A1-145200A6BBE0"
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
