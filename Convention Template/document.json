@@ -55,13 +55,13 @@
     "    ↳ Cấp ba I",
     "        ↳ Cấp bốn K",
     "----------------------",
+    "----------------------",
     "2. Cấp một AA",
     "↳ Cấp hai BB",
     "    ↳ Cấp ba CC",
     "        ↳ Cấp bốn DD",
     "↳ Cấp hai EE",
-    "    ↳ Cấp ba FF",
-    "----------------------"
+    "    ↳ Cấp ba FF"
   ],
   "sharedSwatches": {
     "_class": "swatchContainer",
