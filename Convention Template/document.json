@@ -23,7 +23,11 @@
   },
   "colorSpace": 0,
   "do_objectID": "03A3340A-0D96-444A-80D2-242DE0427291",
+  "fontReferences": [
+  ],
   "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
   ],
   "foreignSymbols": [
   ],
@@ -35,9 +39,9 @@
     ]
   },
   "meta": {
-    "appVersion": "60.1",
-    "build": 88133,
-    "version": 121
+    "appVersion": "68",
+    "build": 102490,
+    "version": 131
   },
   "pages": [
     "1. Cấp một A",
@@ -59,6 +63,11 @@
     "    ↳ Cấp ba FF",
     "----------------------"
   ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  },
   "userInfo": {
     "com.abynim.sketchplugins.userflows": {
       "lastUsedFlowPage": "    ↳ Cấp ba FF"

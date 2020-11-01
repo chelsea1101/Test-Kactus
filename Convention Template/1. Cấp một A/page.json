@@ -39,8 +39,11 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
+    {
+      "class": "rectangle",
+      "id": "7D6A3F90-A161-4F9D-84F5-3BEEEE66EED7"
+    }
   ],
-  "maintainScrollPosition": false,
   "name": "1. Cấp một A",
   "nameIsFixed": true,
   "resizingConstraint": 63,
